@@ -1,0 +1,47 @@
+.radio-div-field{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.radio-div-field div{
+  display: inline-block;
+  width: auto;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.radio-div {
+  border: 2px solid grey !important;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+
+.radio-div hover{
+  padding: 15px;
+}
+
+.radio-div ul {
+  font-size: 100%
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  text-align: center;
+  list-style-type: none;
+}
+
+.radio-div-label {
+  font-size: 130%;
+  font: bold;
+}
+
+.selected-radio-div{
+  border: 2px solid lightblue !important;
+  box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+.selected-radio-div ul {
+  font-size: 100%
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  text-align: center;
+  list-style-type: none;
+}
